@@ -54,7 +54,7 @@ Here are the technologies you should install if you are using Jupyter-notebook. 
 - Pandas version : 1.5.3
 - Tensorflow version : 2.12.0
 - Scikit - learn version : 1.2.1
-- Matplotlib : 3.7.0
+- Matplotlib version : 3.7.0
 
 # Models
 
