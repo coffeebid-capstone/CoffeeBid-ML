@@ -15,7 +15,7 @@
 * (CC) C360DSX1639 – Muhammad Faqih Madani – Telkom University 
 * (MD) A320DSX1184 – Gus Amiq Dian Mufti – PGRI Semarang University
 
-# Prerequisites
+# :crossed_swords:	Prerequisites
 
 Here are the technologies you should install if you are using Jupyter-notebook. If you're using Google Colab you don't need to install it just import the libraries
 
@@ -60,7 +60,7 @@ Here are the technologies you should install if you are using Jupyter-notebook. 
 - MobilenetV2 (Transer learning) 
 - InceptionV3 (Transfer learning)
 
-# Contact
+# :phone: Contact
 
 For further information you can contact to :
 
