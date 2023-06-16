@@ -66,6 +66,6 @@ Here are the technologies you should install if you are using Jupyter-notebook. 
 
 For further information you can contact to :
 
-- dewaharyono94@gmail.com (Dewa Putra Haryono/dewaph)
-- iamhadadkarsa@gmail.com (Hadad Karsa Nur Iman/HadadKarsa)
+- dewaharyono94@gmail.com :arrow_right: [Dewa Putra Haryono](https://github.com/dewaph)
+- iamhadadkarsa@gmail.com :arrow_right: [Hadad Karsa Nur Iman](https://github.com/HadadKarsa)
 - syarifulm007@gmail.com :arrow_right: [Syariful_Msth](https://github.com/SyarifulMsth/)
