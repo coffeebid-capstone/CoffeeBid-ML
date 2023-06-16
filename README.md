@@ -2,11 +2,9 @@
   :scroll: CoffeeBid Machine Learning Project Readme :scroll:	
 </h1>
 
-# Team Profile
+# Team ID : C23-PS130
 
-### Team ID : C23-PS130
-
-### :man_astronaut:	This is our Members
+## :man_astronaut:	This is our Members
 
 * (ML) M265DSX2516 – Hadad Karsa Nur Iman – Muria Kudus University
 * (ML) M320DSX0343 – Syariful Musthofa – PGRI Semarang University  
@@ -15,7 +13,7 @@
 * (CC) C360DSX1639 – Muhammad Faqih Madani – Telkom University 
 * (MD) A320DSX1184 – Gus Amiq Dian Mufti – PGRI Semarang University
 
-# :crossed_swords:	Prerequisites
+## :crossed_swords:	Prerequisites
 
 Here are the technologies you should install if you are using Jupyter-notebook. If you're using Google Colab you don't need to install it just import the libraries
 
@@ -45,7 +43,7 @@ Here are the technologies you should install if you are using Jupyter-notebook. 
   pip install matplotlib
   ```
 
-# 🔧 Technologies version
+## 🔧 Technologies version
 
 - Python version : 3.10.2
 - numPy version : 1.23.5
@@ -54,13 +52,13 @@ Here are the technologies you should install if you are using Jupyter-notebook. 
 - Scikit - learn version : 1.2.1
 - Matplotlib version : 3.7.0
 
-# :dart: Models
+## :dart: Models
 
 - Convolutional Neural Network
 - MobilenetV2 (Transer learning) 
 - InceptionV3 (Transfer learning)
 
-# 📫 Contact
+## 📫 Contact
 
 For further information you can contact to :
 
