@@ -45,7 +45,7 @@ Here are the technologies you should install if you are using Jupyter-notebook. 
   pip install matplotlib
   ```
 
-# Technologies version
+# 🔧 Technologies version
 
 - Python version : 3.10.2
 - numPy version : 1.23.5
@@ -54,13 +54,13 @@ Here are the technologies you should install if you are using Jupyter-notebook. 
 - Scikit - learn version : 1.2.1
 - Matplotlib version : 3.7.0
 
-# Models
+# :dart: Models
 
 - Convolutional Neural Network
 - MobilenetV2 (Transer learning) 
 - InceptionV3 (Transfer learning)
 
-# :phone: Contact
+# 📫 Contact
 
 For further information you can contact to :
 
