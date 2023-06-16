@@ -3,6 +3,7 @@
 </h1>
 
 # Team ID : C23-PS130
+Welcome to the Machine Learning Repository of CoffeeBid App! This repository contains the machine learning models code, datasets, and resources for CoffeeBid App.
 
 ## :man_astronaut:	This is our Members
 
