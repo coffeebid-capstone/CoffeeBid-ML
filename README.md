@@ -58,9 +58,9 @@ Here are the technologies you should install if you are using Jupyter-notebook. 
 
 # Models
 
-- Neural Network
-- ??
-- ??
+- Convolutional Neural Network
+- MobilenetV2 (Transer learning) 
+- InceptionV3 (Transfer learning)
 
 # Contact
 
