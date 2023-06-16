@@ -1,23 +1,21 @@
-# CoffeeBid-ML
+<h1 align="center">
+  :scroll: CoffeeBid Machine Learning Project Readme :scroll:	
+</h1>
 
-# Table of contents
+# Team Profile
 
-- [General info](#general-info)
-- [Roadmap](#roadmap)
-- [Prerequisites](#prerequisites)
-- [Technologies version](#technologies-version)
-- [Models](#models)
-- [Contact](#contact)
+### Team ID : C23-PS130
 
-# General info
+### This is our Members
 
-??
+* (ML) M265DSX2516 – Hadad Karsa Nur Iman – Muria Kudus University
+* (ML) M320DSX0343 – Syariful Musthofa – PGRI Semarang University  
+* (ML)  M265DSX0030 – Dewa Putra Haryono – Muria Kudus University 
+* (CC)  C265DSX0910 – Novri Lukman Zyarif – Muria Kudus University
+* (CC) C360DSX1639 – Muhammad Faqih Madani – Telkom University 
+* (MD) A320DSX1184 – Gus Amiq Dian Mufti – PGRI Semarang University
 
-# Roadmap
-
-??
-
-# Prerequisites
+# :crossed_swords:	Prerequisites
 
 Here are the technologies you should install if you are using Jupyter-notebook. If you're using Google Colab you don't need to install it just import the libraries
 
@@ -62,7 +60,7 @@ Here are the technologies you should install if you are using Jupyter-notebook. 
 - MobilenetV2 (Transer learning) 
 - InceptionV3 (Transfer learning)
 
-# Contact
+# :phone: Contact
 
 For further information you can contact to :
 
